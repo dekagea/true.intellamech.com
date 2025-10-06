@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://true.intellamech.com/sitemap.xml
